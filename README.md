@@ -1,2 +1,2 @@
 # Slideshow
- Slideshow feito com HTML/CSS e Javascript. 
+ Slideshow feito com HTML/CSS e Javascript.
